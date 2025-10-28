@@ -18,9 +18,10 @@ class Restaurant:
 
 ita_restaurant = Restaurant("Napoli", "Italian")
 mex_restaurant = Restaurant("Taco Bell", "Mexican")
-esp_restaurant = Restaurant("Madird", "Spanish")
+esp_restaurant = Restaurant("Madrid", "Spanish")
 
 
 ita_restaurant.describe_restaurant()
 mex_restaurant.describe_restaurant()
 esp_restaurant.describe_restaurant()
+
